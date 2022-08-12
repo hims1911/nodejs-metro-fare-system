@@ -11,7 +11,7 @@ once we have node_modules installed we can simply run the signma_assignment scri
 node sigma_assignment.js
 ```
 
-Input Format :
+Input Format/ Console Input :
 
 ```
 from_line: Green
@@ -38,6 +38,10 @@ peak: 3
 non_peak: 2
 daily_cap: 15
 weekly_cap: 90
+```
+
+Console Output:
+```
 Simplified Group  {
   '2021-13': [
     GG: { fair: 55, data: [Array] },
