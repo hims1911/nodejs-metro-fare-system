@@ -29,7 +29,6 @@ const ask = (question) => {
 }
 
 const main = async () => {
-  let result = [];
   let questions = ["from_line: ", "to_line: ", "peak: ", "non_peak: ", "daily_cap: ", "weekly_cap: "];
   for (let q = 0; q < 4; q++) {
     let ans = {}
